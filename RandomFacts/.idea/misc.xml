@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="net.techminded.npmania.NpmaniaSettingsState">
+    <option name="actions">
+      <map>
+        <entry key="npm run-script build" value="npm run-script build" />
+        <entry key="npm run-script deploy" value="npm run-script deploy" />
+        <entry key="npm run-script start" value="npm run-script start" />
+      </map>
+    </option>
+  </component>
+</project>
